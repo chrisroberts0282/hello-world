@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-Changing stuff!!! Don't mind me!
+Just another update!
